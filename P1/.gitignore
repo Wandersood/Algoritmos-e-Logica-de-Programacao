@@ -1,0 +1,30 @@
+# Ignorar arquivos e pastas do IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar diretórios de compilação
+out/
+target/
+build/
+
+# Ignorar classes compiladas
+*.class
+
+# Ignorar arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar pacotes e arquivos gerados
+*.jar
+*.war
+*.ear
+
+# Ignorar arquivos do sistema
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignorar pastas específicas
+/testeCodigo/
+
